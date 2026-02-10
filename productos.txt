@@ -1,0 +1,20 @@
+Televisión; 399,50€
+Smartphone Galaxy; 649,00€
+Auriculares Bluetooth; 89,99€
+Portátil Gaming; 1250,00€
+Monitor 27 pulgadas; 199,00€
+Teclado Mecánico; 55,25€
+Ratón Ergonómico; 32,10€
+Cámara Reflex; 520,00€
+Altavoz Inteligente; 45,00€
+Disco Duro Externo 2TB; 78,90€
+Consola de Videojuegos; 499,99€
+Reloj Inteligente; 129,00€
+Tablet Pro; 875,50€
+Impresora Láser; 145,00€
+Router Wi-Fi 6; 110,00€
+Silla de Escritorio; 185,00€
+Cafetera de Cápsulas; 79,00€
+Bicicleta Estática; 230,50€
+Microondas Digital; 95,00€
+Aspiradora Robot; 315,20€
